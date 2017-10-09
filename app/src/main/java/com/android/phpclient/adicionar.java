@@ -43,6 +43,7 @@ public class adicionar extends Activity {
                 //Grava as novas informações
                 ServerAccess ss=new ServerAccess();
                 int ii=ss.gravarRegistro(edtUsername.getText().toString(), edtPassword.getText().toString(), edtName.getText().toString(), edtAddress.getText().toString(), edtIDAdmin.getText().toString() );
+				
                 //FIM - Grava as novas informações
                 Intent it = new Intent(adicionar.this, principal.class);
                 adicionar.this.startActivity(it);
