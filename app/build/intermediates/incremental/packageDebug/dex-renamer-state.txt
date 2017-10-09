@@ -1,0 +1,7 @@
+#Sat Nov 05 12:26:07 BRST 2016
+base.0=C\:\\Users\\julio\\Desktop\\PHPClient\\PHPClient\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_145e025d3b51a2651dd4a4a47abaca7757e86127
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\julio\\Desktop\\PHPClient\\PHPClient\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ea50754bea265e11fa2d92b46e709541f6a3d38c\\classes.dex
+base.1=C\:\\Users\\julio\\Desktop\\PHPClient\\PHPClient\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ea50754bea265e11fa2d92b46e709541f6a3d38c
+file.0=C\:\\Users\\julio\\Desktop\\PHPClient\\PHPClient\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_145e025d3b51a2651dd4a4a47abaca7757e86127\\classes.dex

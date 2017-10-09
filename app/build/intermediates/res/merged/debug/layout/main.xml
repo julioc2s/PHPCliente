@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Entre com os dados de Nome / Senha" />
+
+    <TextView
+        android:text="Nome:"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView" />
+
+    <EditText
+        android:id="@+id/txtUsername"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:hint="Entre com seu Nome"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:text="Julia">
+        <requestFocus />
+    </EditText>
+
+    <TextView
+        android:text="Senha:"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2" />
+
+    <EditText
+        android:id="@+id/txtPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword" 
+        android:hint="Entre com sua Senha"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:text="1234" />
+
+    <Button
+        android:id="@+id/btnLogin"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_marginRight="15dp"
+        android:layout_width="150dp"
+        android:text="Entrar" />
+
+</LinearLayout>

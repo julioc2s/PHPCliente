@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Thu Nov 03 15:21:44 BRST 2016
+2.base=C\:\\Users\\julio\\Desktop\\PHPClient\\PHPClient\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\julio\\Desktop\\PHPClient\\PHPClient\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\excluir.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\julio\\Desktop\\PHPClient\\PHPClient\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\julio\\Desktop\\PHPClient\\PHPClient\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\employeeitem.xml
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\julio\\Desktop\\PHPClient\\PHPClient\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\julio\\Desktop\\PHPClient\\PHPClient\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+7.set=ANDROID_RESOURCE
+count=10
+0.file=C\:\\Users\\julio\\Desktop\\PHPClient\\PHPClient\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.base=C\:\\Users\\julio\\Desktop\\PHPClient\\PHPClient\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Users\\julio\\Desktop\\PHPClient\\PHPClient\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\principal.xml
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\julio\\Desktop\\PHPClient\\PHPClient\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\julio\\Desktop\\PHPClient\\PHPClient\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+9.set=ANDROID_RESOURCE
+9.file=C\:\\Users\\julio\\Desktop\\PHPClient\\PHPClient\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\julio\\Desktop\\PHPClient\\PHPClient\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\julio\\Desktop\\PHPClient\\PHPClient\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\adicionar.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\julio\\Desktop\\PHPClient\\PHPClient\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Users\\julio\\Desktop\\PHPClient\\PHPClient\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\julio\\Desktop\\PHPClient\\PHPClient\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\employeeslist.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\julio\\Desktop\\PHPClient\\PHPClient\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=C\:\\Users\\julio\\Desktop\\PHPClient\\PHPClient\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\julio\\Desktop\\PHPClient\\PHPClient\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\enviolocalizacao.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

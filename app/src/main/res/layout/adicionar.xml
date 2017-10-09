@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="voltar"
+            android:id="@+id/btnVoltar2"/>
+    <EditText android:id="@+id/edtUsername" android:layout_width="match_parent" android:layout_height="wrap_content"
+              android:hint="Enter the Username" android:layout_marginLeft="5dp" android:layout_marginRight="5dp"/>
+    <EditText android:id="@+id/edtPassword" android:layout_width="match_parent" android:layout_height="wrap_content"
+              android:hint="Enter the Password" android:layout_marginLeft="5dp" android:layout_marginRight="5dp"/>
+    <EditText android:id="@+id/edtName" android:layout_width="match_parent" android:layout_height="wrap_content"
+              android:hint="Enter the Name" android:layout_marginLeft="5dp" android:layout_marginRight="5dp"/>
+    <EditText android:id="@+id/edtAddress" android:layout_width="match_parent" android:layout_height="wrap_content"
+              android:hint="Enter the Address" android:layout_marginLeft="5dp" android:layout_marginRight="5dp"/>
+    <EditText android:id="@+id/edtIDAdmin" android:layout_width="match_parent" android:layout_height="wrap_content"
+              android:hint="Enter the ID of the Admin" android:layout_marginLeft="5dp" android:layout_marginRight="5dp"/>
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Gravar"
+            android:id="@+id/btnGravar"/>
+</LinearLayout>
