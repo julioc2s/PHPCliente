@@ -1,5 +1,6 @@
 <?php
 
+
 /**
  * Date 		:	27.11.2012
  * Description 	:	A sample php service to return json responses for android application
